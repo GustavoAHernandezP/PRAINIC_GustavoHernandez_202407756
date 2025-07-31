@@ -22,7 +22,7 @@ La generación del contenido se realizó cumpliendo con los criterios de clarida
 
 ### 📷 Evidencia de generación (imágenes)
 
-![Evidencia del contenido generado para el manual](./1.png)  
+![Evidencia del contenido generado para el manual](1.png)  
 
 ![Evidencia del contenido generado para el manual](./4.png)  
 

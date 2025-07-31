@@ -96,7 +96,7 @@ Este manual proporciona una guía práctica y segura para realizar el mantenimie
 ## 🔗 URL del Video
 
 Puedes ver el video tutorial complementario en el siguiente enlace:  
-**[https://youtu.be/M31r8MgldEE](https://enlace-a-tu-video.com)**
+**[https://youtu.be/M31r8MgldEE](https://youtu.be/M31r8MgldEE)**
 
 
 ---
